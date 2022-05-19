@@ -22,10 +22,10 @@ git switch edukyle
 
 <br>
 
-4. N행시를 작성하고 커밋을 남긴 후, 자신의 원격 저장소에 Push 합니다.
+4. `acrostic-poem.md` 파일에 N행시를 작성하고 커밋을 남긴 후, 자신의 원격 저장소에 Push 합니다.
 ```bash
 git add .
-git commit -m "Upload acrostic poem"
+git commit -m "Update acrostic-poem.md"
 git push origin edukyle
 ```
 
